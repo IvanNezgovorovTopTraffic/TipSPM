@@ -1,17 +1,17 @@
-# GalaxySplash
+# RomanEmpire
 
-Библиотека для создания красивых космических анимаций в SwiftUI.
+Библиотека для создания красивых космических анимаций в SwiftUI с римской тематикой.
 
 ## Возможности
 
-- 🚀 Красивый splash screen с градиентом и анимированным лоадером
-- 🌟 Анимированные звезды с пульсирующим эффектом
-- 🌌 Галактики с вращающимися элементами  
-- 🌠 Космический фон с движущимися звездами
-- 📱 Веб-просмотрщик с поддержкой жестов и обновления
-- 🔍 Универсальная система проверки доступности внешнего контента
-- 🚨 Кастомные alert'ы с переходом в настройки
-- 📬 Быстрая интеграция OneSignal для push-уведомлений
+- 🏛️ Красивый splash screen с градиентом и анимированным лоадером (Colosseum)
+- 🦅 Анимированные звезды с пульсирующим эффектом (Aquila)
+- 🏺 Галактики с вращающимися элементами (Forum)
+- 🏛️ Космический фон с движущимися звездами (Pantheon)
+- 🎭 Веб-просмотрщик с поддержкой жестов и обновления (Amphitheater)
+- ⚔️ Универсальная система проверки доступности внешнего контента (Legion Validator)
+- 📯 Кастомные alert'ы с переходом в настройки (Tribune Messenger)
+- 🏛️ Быстрая интеграция OneSignal для push-уведомлений (Senate Herald)
 
 ## Установка
 
@@ -21,7 +21,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/yourusername/GalaxySplash.git", from: "1.0.0")
+    .package(url: "https://github.com/yourusername/RomanEmpire.git", from: "1.0.0")
 ]
 ```
 
@@ -32,59 +32,59 @@ dependencies: [
 
 ## Использование
 
-### Splash Screen
+### Colosseum Screen (Splash Screen)
 
 ```swift
 import SwiftUI
-import GalaxySplash
+import RomanEmpire
 
 struct ContentView: View {
     var body: some View {
-        GalaxySplash.createSplashScreen(
-            gradientColors: [.blue, .purple, .pink],
-            textColor: .white,
-            loaderColor: .white,
-            loadingText: "Loading..."
+        RomanEmpire.createColosseumScreen(
+            imperiumColors: [.blue, .purple, .pink],
+            inscriptionColor: .white,
+            orbColor: .white,
+            inscriptionText: "Loading..."
         )
     }
 }
 ```
 
-### Анимированная звезда
+### Aquila Emblem (Анимированная звезда)
 
 ```swift
-GalaxySplash.createAnimatedStar(
-    size: 50,
-    color: .yellow,
-    duration: 1.0
+RomanEmpire.createAquilaEmblem(
+    magnitude: 50,
+    emblem: .yellow,
+    cycleTime: 1.0
 )
 ```
 
-### Галактика
+### Forum (Галактика)
 
 ```swift
-GalaxySplash.createGalaxy(
-    elementCount: 8,
-    size: 200,
-    colors: [.blue, .purple, .pink]
+RomanEmpire.createForum(
+    citizenCount: 8,
+    arena: 200,
+    banners: [.blue, .purple, .pink]
 )
 ```
 
-### Космический фон
+### Pantheon (Космический фон)
 
 ```swift
-GalaxySplash.createSpaceBackground(
-    starCount: 50,
-    speed: 2.0
+RomanEmpire.createPantheon(
+    constellationCount: 50,
+    velocity: 2.0
 )
 ```
 
-### Веб-просмотрщик
+### Amphitheater (Веб-просмотрщик)
 
 ```swift
-GalaxySplash.createContentDisplay(
-    urlString: "https://example.com",
-    allowsGestures: true,
+RomanEmpire.createAmphitheater(
+    scrollPath: "https://example.com",
+    allowsRituals: true,
     enableRefresh: true
 )
 ```
@@ -101,22 +101,22 @@ GalaxySplash.createContentDisplay(
 - ✅ Отступы от safe area
 - ✅ Черный фон для лучшего отображения
 
-### Проверка доступности внешнего контента
+### Legion Validator (Проверка доступности внешнего контента)
 
 ```swift
 // Проверяем доступность внешнего контента
-let targetDate = Calendar.current.date(from: DateComponents(year: 2025, month: 3, day: 4))!
-let result = GalaxySplash.checkContentAvailability(
-    url: "https://example.com",
-    targetDate: targetDate,
-    deviceCheck: true,
-    timeout: 10.0,
-    cacheKey: "myApp" // Уникальный ключ для кэширования
+let propheticDate = Calendar.current.date(from: DateComponents(year: 2025, month: 3, day: 4))!
+let result = RomanEmpire.validateLegionScroll(
+    scroll: "https://example.com",
+    propheticDate: propheticDate,
+    tabletCheck: true,
+    hourglass: 10.0,
+    scrollKey: "myApp" // Уникальный ключ для кэширования
 )
 
-if result.shouldShowExternalContent {
+if result.shouldRevealExternalScroll {
     // Показываем WebView с внешним контентом
-    GalaxySplash.createContentDisplay(urlString: result.finalUrl)
+    RomanEmpire.createAmphitheater(scrollPath: result.resolvedScrollPath)
 } else {
     // Показываем основное приложение
     MainAppView()
@@ -126,55 +126,40 @@ if result.shouldShowExternalContent {
 #### Особенности системы проверки:
 
 - ✅ **Кэширование результатов** - проверка выполняется только один раз
-- ✅ **Проверка интернета** - автоматическая проверка соединения
-- ✅ **Проверка даты** - контент доступен только после указанной даты
-- ✅ **Проверка устройства** - исключение iPad (опционально)
-- ✅ **Проверка сервера** - валидация ответа сервера (коды 200-403)
+- ✅ **Проверка интернета** - автоматическая проверка соединения (Aqueduct)
+- ✅ **Проверка даты** - контент доступен только после указанной даты (Prophetic Date)
+- ✅ **Проверка устройства** - исключение iPad (Tablet Check)
+- ✅ **Проверка сервера** - валидация ответа сервера (Consul Response)
 - ✅ **Подробные логи** - отладочная информация в консоли
 - ✅ **Уникальные ключи** - разные приложения не влияют друг на друга
 
-#### Логи в консоли:
-
-```
-🔍 Начинаем проверку доступности контента для URL: https://example.com
-🌐 Проверяем интернет соединение...
-✅ Прошли интернет
-📅 Проверяем целевую дату...
-✅ Прошли дату
-📱 Проверяем тип устройства...
-✅ Прошли проверку устройства
-🌐 Проверяем серверный код...
-✅ Прошли код
-🎉 Все проверки пройдены! Сохраняем результат...
-```
-
-### Кастомные Alert'ы
+### Tribune Messenger (Кастомные Alert'ы)
 
 ```swift
 // Alert для уведомлений с переходом в настройки
-GalaxySplash.showNotificationsAlert()
+RomanEmpire.summonHeraldAlert()
 
 // Универсальный кастомный alert
-GalaxySplash.showCustomAlert(
-    title: "Подтверждение",
-    message: "Вы уверены, что хотите продолжить?",
-    primaryButtonTitle: "Да",
-    secondaryButtonTitle: "Нет",
-    primaryAction: {
+RomanEmpire.summonTribuneMessage(
+    proclamation: "Подтверждение",
+    decree: "Вы уверены, что хотите продолжить?",
+    primaryDecree: "Да",
+    secondaryDecree: "Нет",
+    primaryRitual: {
         print("Пользователь подтвердил действие")
     },
-    secondaryAction: {
+    secondaryRitual: {
         print("Пользователь отменил действие")
     }
 )
 
 // Alert с подтверждением
-GalaxySplash.showConfirmationAlert(
-    title: "Удалить данные",
-    message: "Это действие нельзя отменить",
-    confirmTitle: "Удалить",
-    cancelTitle: "Отмена",
-    onConfirm: {
+RomanEmpire.summonConfirmationEdict(
+    proclamation: "Удалить данные",
+    decree: "Это действие нельзя отменить",
+    affirmDecree: "Удалить",
+    vetoDecree: "Отмена",
+    onAffirm: {
         // Удаляем данные
         print("Данные удалены")
     }
@@ -189,12 +174,12 @@ GalaxySplash.showConfirmationAlert(
 - ✅ **Безопасность** - проверка доступности view controller'а
 - ✅ **Подробные логи** - отладочная информация в консоли
 
-### Интеграция OneSignal
+### Senate Herald (Интеграция OneSignal)
 
 ```swift
 import SwiftUI
 import OneSignalFramework
-import GalaxySplash
+import RomanEmpire
 
 @main
 struct MyApp: App {
@@ -210,18 +195,18 @@ final class AppDelegate: UIResponder, UIApplicationDelegate {
         _ application: UIApplication,
         didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
     ) -> Bool {
-        GalaxySplash.initializeOneSignal(
-            appId: "YOUR-ONESIGNAL-APP-ID",
-            launchOptions: launchOptions
+        RomanEmpire.initializeSenateHerald(
+            senateId: "YOUR-ONESIGNAL-APP-ID",
+            ritualOptions: launchOptions
         )
         return true
     }
 }
 ```
 
-#### Что делает менеджер:
+#### Что делает Senate Herald:
 
-- ✅ Инициализирует OneSignal и логинит пользователя с `GalaxySplash.getUserID()`
+- ✅ Инициализирует OneSignal и логинит пользователя с `RomanEmpire.getCitizenSeal()`
 - ✅ Хранит счётчик запусков, чтобы запрашивать разрешение только на первом старте
 - ✅ При последующих запусках проверяет статус разрешения и показывает системный Alert из библиотеки
 - ✅ Автоматически вызывает `OneSignal.login` после получения разрешения
@@ -239,3 +224,33 @@ final class AppDelegate: UIResponder, UIApplicationDelegate {
 ## Лицензия
 
 MIT License
+
+---
+
+## Карта переименований
+
+Для облегчения миграции с предыдущей версии:
+
+| Старое название | Новое название (Римская тематика) |
+|----------------|----------------------------------|
+| `GalaxySplash` | `RomanEmpire` |
+| `createSplashScreen()` | `createColosseumScreen()` |
+| `createAnimatedStar()` | `createAquilaEmblem()` |
+| `createGalaxy()` | `createForum()` |
+| `createSpaceBackground()` | `createPantheon()` |
+| `createContentDisplay()` | `createAmphitheater()` |
+| `checkContentAvailability()` | `validateLegionScroll()` |
+| `getUserID()` | `getCitizenSeal()` |
+| `showNotificationsAlert()` | `summonHeraldAlert()` |
+| `showCustomAlert()` | `summonTribuneMessage()` |
+| `showConfirmationAlert()` | `summonConfirmationEdict()` |
+| `initializeOneSignal()` | `initializeSenateHerald()` |
+| `SplashScreenView` | `ColosseumView` |
+| `GalaxyView` | `ForumView` |
+| `SpaceBackgroundView` | `PantheonView` |
+| `AnimatedStarView` | `AquilaView` |
+| `ContentAvailabilityChecker` | `LegionValidator` |
+| `ContentDisplayView` | `AmphitheaterView` |
+| `CustomAlertManager` | `TribuneMessenger` |
+| `NotificationManager` | `SenateHerald` |
+| `IDGenerator` | `CaesarScribe` |

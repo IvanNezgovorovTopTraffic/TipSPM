@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/arm64-apple-macosx/debug/RomanEmpirePackageTests.build/master.swiftdeps"
+  },
+  "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/arm64-apple-macosx/debug/RomanEmpirePackageTests.derived/runner.swift": {
+    "dependencies": "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/arm64-apple-macosx/debug/RomanEmpirePackageTests.build/runner.d",
+    "object": "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/arm64-apple-macosx/debug/RomanEmpirePackageTests.build/runner.swift.o",
+    "swiftmodule": "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/arm64-apple-macosx/debug/RomanEmpirePackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/arm64-apple-macosx/debug/RomanEmpirePackageTests.build/runner.swiftdeps",
+    "diagnostics": "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/arm64-apple-macosx/debug/RomanEmpirePackageTests.build/runner.dia"
+  }
+}

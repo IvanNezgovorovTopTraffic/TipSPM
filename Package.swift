@@ -4,24 +4,24 @@
 import PackageDescription
 
 let package = Package(
-    name: "GalaxySplash",
+    name: "RomanEmpire",
     platforms: [.iOS(.v15), .macOS(.v12), .watchOS(.v8), .tvOS(.v15)],
     products: [
-        .library(name: "GalaxySplash", targets: ["GalaxySplash"]),
+        .library(name: "RomanEmpire", targets: ["RomanEmpire"]),
     ],
     dependencies: [
         .package(url: "https://github.com/OneSignal/OneSignal-XCFramework", from: "5.0.0"),
     ],
     targets: [
         .target(
-            name: "GalaxySplash",
+            name: "RomanEmpire",
             dependencies: [
                 .product(name: "OneSignalFramework", package: "OneSignal-XCFramework")
             ]
         ),
         .testTarget(
-            name: "GalaxySplashTests",
-            dependencies: ["GalaxySplash"]
+            name: "RomanEmpireTests",
+            dependencies: ["RomanEmpire"]
         ),
     ]
 )

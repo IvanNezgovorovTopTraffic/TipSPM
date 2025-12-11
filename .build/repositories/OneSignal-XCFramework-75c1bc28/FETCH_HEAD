@@ -1,0 +1,348 @@
+77867e14de45004ac376872e04afe9ca224199f1	not-for-merge	branch '5.4.0_release_branch' of https://github.com/OneSignal/OneSignal-XCFramework
+8fcd9c4dbc8ab8bb6383dd4e9bde068a6b6d4f93	not-for-merge	branch 'copy_of_main_for_cd_testing' of https://github.com/OneSignal/OneSignal-XCFramework
+8e89bb6858b5cf9e41b070761b281b6a9e554a04	not-for-merge	branch 'dsym' of https://github.com/OneSignal/OneSignal-XCFramework
+2b066e535b5d124a7cd92f1df0db6a5fb962c9be	not-for-merge	branch 'fix/add_dummy_folders' of https://github.com/OneSignal/OneSignal-XCFramework
+83eb2e579a4183366169d17a2728b5045ae551fd	not-for-merge	branch 'fix/package.swift' of https://github.com/OneSignal/OneSignal-XCFramework
+3ccb5af8e720d55393ea569e3b64d0730f5de06d	not-for-merge	branch 'fix_release_5.1.6_code_signature' of https://github.com/OneSignal/OneSignal-XCFramework
+6708bdd660666a0f10b0c39ee4955bbc31f6153a	not-for-merge	branch 'identity_verification_beta' of https://github.com/OneSignal/OneSignal-XCFramework
+436db8062b7ee58ff6df32874d0e85eaf055fcbe	not-for-merge	branch 'live_activities_beta_release' of https://github.com/OneSignal/OneSignal-XCFramework
+8fcd9c4dbc8ab8bb6383dd4e9bde068a6b6d4f93	not-for-merge	branch 'main' of https://github.com/OneSignal/OneSignal-XCFramework
+8b375d352a56cb77cf2fb565aff1518f89761f5f	not-for-merge	branch 'major_release_5.0.0' of https://github.com/OneSignal/OneSignal-XCFramework
+fb5b9f51b7142f534f6c5bb7e63c5a76a9c1bad4	not-for-merge	branch 'player-model-main' of https://github.com/OneSignal/OneSignal-XCFramework
+6b9f53497c43857bd3e9bfbe9eb2f0dab401d29a	not-for-merge	branch 'prepare_for_5.0.0_release' of https://github.com/OneSignal/OneSignal-XCFramework
+3ab2d6eb437be6faa76173c194dd26ca53aa00b5	not-for-merge	branch 'rel/3.11.5' of https://github.com/OneSignal/OneSignal-XCFramework
+eeb4efdcfdda54942ad948fdf58bd20caa968176	not-for-merge	branch 'rel/3.12.0' of https://github.com/OneSignal/OneSignal-XCFramework
+c0c888a21c92d0c177cd71ecca3ae972d4e7a38f	not-for-merge	branch 'rel/3.12.1' of https://github.com/OneSignal/OneSignal-XCFramework
+2192b44e4d911c330598f7313055ab64cc4cfe7c	not-for-merge	branch 'rel/3.12.10' of https://github.com/OneSignal/OneSignal-XCFramework
+b778088ec7daafbac6f02a59a751feccbbd27da1	not-for-merge	branch 'rel/3.12.2' of https://github.com/OneSignal/OneSignal-XCFramework
+3d67c5ae8de6e66bef9299eedaea3c6bd10bf0b5	not-for-merge	branch 'rel/3.12.3' of https://github.com/OneSignal/OneSignal-XCFramework
+6998c230817f637507e661d579e2e6156503fb49	not-for-merge	branch 'rel/5.0.0_alpha_02' of https://github.com/OneSignal/OneSignal-XCFramework
+883cc477eab8fece31afe0c396725d4ff41671e5	not-for-merge	branch 'rel/5.0.5' of https://github.com/OneSignal/OneSignal-XCFramework
+6820ed26bc884aefa76a907ac80eb114d6b4a8f8	not-for-merge	branch 'rel/5.1.0' of https://github.com/OneSignal/OneSignal-XCFramework
+9076f00d55888d6a0c1363b480905d403cbeef39	not-for-merge	branch 'rel/5.1.1' of https://github.com/OneSignal/OneSignal-XCFramework
+3576a8a827a970e055dcb7550249b73600f37589	not-for-merge	branch 'rel/5.1.2' of https://github.com/OneSignal/OneSignal-XCFramework
+e25e95caceb9b1669734301685e217158f08cf6a	not-for-merge	branch 'rel/5.1.3' of https://github.com/OneSignal/OneSignal-XCFramework
+68218547d4c04664e38ad7134ec03f7e7b6a89d8	not-for-merge	branch 'rel/5.1.4' of https://github.com/OneSignal/OneSignal-XCFramework
+c36bbb31121d3b17327c9a49acd11145e10e2866	not-for-merge	branch 'rel/5.1.5' of https://github.com/OneSignal/OneSignal-XCFramework
+9253cffb3e93d2ca070041ebab7069c19f3557db	not-for-merge	branch 'rel/5.1.6' of https://github.com/OneSignal/OneSignal-XCFramework
+627e13e55cb1ae929a5f610e3fb9ff5eaca9a853	not-for-merge	branch 'rel/5.2.0' of https://github.com/OneSignal/OneSignal-XCFramework
+768567a40508361087e249a194ed099edccd487d	not-for-merge	branch 'rel/5.2.1' of https://github.com/OneSignal/OneSignal-XCFramework
+fd994208bff66abb5d1dac9d704bf007a1e22513	not-for-merge	branch 'rel/5.2.10' of https://github.com/OneSignal/OneSignal-XCFramework
+9ff8b504697c3a92749be3f6a83c9071110ed904	not-for-merge	branch 'rel/5.2.11' of https://github.com/OneSignal/OneSignal-XCFramework
+253bfa6e4661777844cbb48f016e704be10c8bce	not-for-merge	branch 'rel/5.2.12' of https://github.com/OneSignal/OneSignal-XCFramework
+d358a5a806560722076378301094941dbdede0db	not-for-merge	branch 'rel/5.2.13' of https://github.com/OneSignal/OneSignal-XCFramework
+e376644a1db12ec11e4d9354c355ccf0a428f0ee	not-for-merge	branch 'rel/5.2.14' of https://github.com/OneSignal/OneSignal-XCFramework
+56176d498f5436b1f402b33532905218c376fa94	not-for-merge	branch 'rel/5.2.2' of https://github.com/OneSignal/OneSignal-XCFramework
+f4f6fb5342c147b292b2542663e075a1b2b55dcf	not-for-merge	branch 'rel/5.2.3' of https://github.com/OneSignal/OneSignal-XCFramework
+e97a211d4a1f248148ec5a8e6cd9d4ff145a44cd	not-for-merge	branch 'rel/5.2.4' of https://github.com/OneSignal/OneSignal-XCFramework
+654e7897a891ab4128b54bf249fe2d500c514d70	not-for-merge	branch 'rel/5.2.5' of https://github.com/OneSignal/OneSignal-XCFramework
+f3a4fe0fd499268862783ad3d8b309ed7e627a13	not-for-merge	branch 'rel/5.2.6' of https://github.com/OneSignal/OneSignal-XCFramework
+eb3159d5ff0abe14041405499d70cd28e00306c2	not-for-merge	branch 'rel/5.2.7' of https://github.com/OneSignal/OneSignal-XCFramework
+512377977ca1640c8eb1d95f45168a026a153675	not-for-merge	branch 'rel/5.2.8' of https://github.com/OneSignal/OneSignal-XCFramework
+d1fcd1912d80b28909b6d42b32ba215eadb386c4	not-for-merge	branch 'rel/5.2.9' of https://github.com/OneSignal/OneSignal-XCFramework
+b62a9fff01b51bbff6456b44c32426998ef46c0a	not-for-merge	branch 'rel/5.3.0-beta-01' of https://github.com/OneSignal/OneSignal-XCFramework
+f9d85d696e081b8ad086d3b6d45dd5a7e32c2e32	not-for-merge	branch 'rel/5.3.0-beta-02' of https://github.com/OneSignal/OneSignal-XCFramework
+1c0084d864fbd0e81fd677965fe7e46e699d3ae3	not-for-merge	branch 'rel/5.4.0-alpha-01' of https://github.com/OneSignal/OneSignal-XCFramework
+8a949bcd30360c50924f553c2a5f7b25383454b0	not-for-merge	branch 'rel_3.12.9' of https://github.com/OneSignal/OneSignal-XCFramework
+4cb0adf68558207ee4849c932866ed7a1f3e9ed0	not-for-merge	branch 'release-3.1.1' of https://github.com/OneSignal/OneSignal-XCFramework
+7a9d4fdf03f493378f84a985416421a93d06c10f	not-for-merge	branch 'release-3.10.0' of https://github.com/OneSignal/OneSignal-XCFramework
+43c4203d6f46c6642b2bc133790bb7ea4b98d18b	not-for-merge	branch 'release-3.10.1' of https://github.com/OneSignal/OneSignal-XCFramework
+6de3072473019f6828d82a5f56a7f9e4d49db41b	not-for-merge	branch 'release-3.10.2' of https://github.com/OneSignal/OneSignal-XCFramework
+2d6263ebb125716dc3c61cbb85a44ac5815086d8	not-for-merge	branch 'release-3.10.3' of https://github.com/OneSignal/OneSignal-XCFramework
+72e38274f816cac3d26390362bac57504c5bd02d	not-for-merge	branch 'release-3.11.0' of https://github.com/OneSignal/OneSignal-XCFramework
+125e5903b2ef8dd7db25317530584957d7bce176	not-for-merge	branch 'release-3.11.0-beta-01' of https://github.com/OneSignal/OneSignal-XCFramework
+ca08db329f73f019c02d2bfffc0cb3f3262aa2bb	not-for-merge	branch 'release-3.11.1' of https://github.com/OneSignal/OneSignal-XCFramework
+bed6da55c0c237594ee655f410c076b1a48f1597	not-for-merge	branch 'release-3.11.3' of https://github.com/OneSignal/OneSignal-XCFramework
+174516bcaa787e79a3cec2e48b9d04dd1aa8c89b	not-for-merge	branch 'release-3.11.4' of https://github.com/OneSignal/OneSignal-XCFramework
+b412ed76771191a35292ab644388bbfee2cad9a5	not-for-merge	branch 'release-3.12.4' of https://github.com/OneSignal/OneSignal-XCFramework
+08e5a30c55b60b4a0d9cb543d50705b567e2b3b9	not-for-merge	branch 'release-3.12.5' of https://github.com/OneSignal/OneSignal-XCFramework
+ebe1c30a67e1c67c9d3f0cfbf598247cda38f323	not-for-merge	branch 'release-3.12.6' of https://github.com/OneSignal/OneSignal-XCFramework
+0951c8c848000f0395344ecddd2ad48de9be36ef	not-for-merge	branch 'release-3.2.0' of https://github.com/OneSignal/OneSignal-XCFramework
+0705db6282508df80ca8ba4397f69bbe5d11aabf	not-for-merge	branch 'release-3.2.1' of https://github.com/OneSignal/OneSignal-XCFramework
+d395e3728e30befc70f1f0ab39658d23df155d31	not-for-merge	branch 'release-3.2.3' of https://github.com/OneSignal/OneSignal-XCFramework
+422d39a55b932de1ea5f396da59981b059051777	not-for-merge	branch 'release-3.3.0' of https://github.com/OneSignal/OneSignal-XCFramework
+2e30656740c247b46ef35323f3aa199b2480e934	not-for-merge	branch 'release-3.4.0' of https://github.com/OneSignal/OneSignal-XCFramework
+e33c0733521fef6b5a919813af3a785a6094bf35	not-for-merge	branch 'release-3.4.1' of https://github.com/OneSignal/OneSignal-XCFramework
+a3f3480aa17d4e2180e7efd1b959c693a899ffc5	not-for-merge	branch 'release-3.4.2' of https://github.com/OneSignal/OneSignal-XCFramework
+ed2af2a2265c2551694e29447b3da694b0c222fd	not-for-merge	branch 'release-3.4.3' of https://github.com/OneSignal/OneSignal-XCFramework
+5f9e3513e6149dc6eefaed10ae97a5a88b6c7200	not-for-merge	branch 'release-3.4.4' of https://github.com/OneSignal/OneSignal-XCFramework
+a09a779b3876aaba60e41e2f3d9a0d32c149c256	not-for-merge	branch 'release-3.5.1' of https://github.com/OneSignal/OneSignal-XCFramework
+020da6780580160a1f7d30927e77f5a9feb9f176	not-for-merge	branch 'release-3.5.2' of https://github.com/OneSignal/OneSignal-XCFramework
+02bc1ed8ec9bec80d35ada5853f906a6430e9206	not-for-merge	branch 'release-3.5.3' of https://github.com/OneSignal/OneSignal-XCFramework
+2ffe46ea482e4bae3c41ae36254f37449c04d41c	not-for-merge	branch 'release-3.6.1' of https://github.com/OneSignal/OneSignal-XCFramework
+ff06d8e60650e553c815e7f34a112304cfca51d9	not-for-merge	branch 'release-3.6.2' of https://github.com/OneSignal/OneSignal-XCFramework
+f8afd8079dd23b1115e8c37bf35abd80ee425630	not-for-merge	branch 'release-3.7.0' of https://github.com/OneSignal/OneSignal-XCFramework
+52cae87f1f00a897a3a93177d30ba78718d77d4c	not-for-merge	branch 'release-3.8.1' of https://github.com/OneSignal/OneSignal-XCFramework
+9879bf0489387e7436f845bb1bc183c2748653ad	not-for-merge	branch 'release-3.9.0' of https://github.com/OneSignal/OneSignal-XCFramework
+f7999c111ec5f590f7351c28a9797c38ade1da88	not-for-merge	branch 'release-3.9.1' of https://github.com/OneSignal/OneSignal-XCFramework
+3b6f902cbb7ad2233bab45deca93c4201a79709d	not-for-merge	branch 'release-5.0.0' of https://github.com/OneSignal/OneSignal-XCFramework
+13b1e965aa69c181033e407def0a8358656ef351	not-for-merge	branch 'release-5.0.0-alpha-01' of https://github.com/OneSignal/OneSignal-XCFramework
+2d5740f372d62a74a64db2892ffac8311306653e	not-for-merge	branch 'release-5.0.0-beta-03' of https://github.com/OneSignal/OneSignal-XCFramework
+d235939a1d96d6a4c93e4cf160724c2ce07e06b0	not-for-merge	branch 'release-5.0.0-beta-04' of https://github.com/OneSignal/OneSignal-XCFramework
+5580193d81848d7dfd3f924be17fe11d82555d6d	not-for-merge	branch 'release-5.0.1' of https://github.com/OneSignal/OneSignal-XCFramework
+f1840f923f79da6bfea68edd67452959d74a5379	not-for-merge	branch 'release/5.0.0-beta-05' of https://github.com/OneSignal/OneSignal-XCFramework
+d895347b7894c0b1c630461136fac0131c25c986	not-for-merge	branch 'release/5.0.0-beta-06' of https://github.com/OneSignal/OneSignal-XCFramework
+8de88e8f3c3c131a991ada6e757d63ea932adb84	not-for-merge	branch 'release/5.0.0_beta_01' of https://github.com/OneSignal/OneSignal-XCFramework
+9a164f05c2596c08bee296b2bd9d63f2ad4ac908	not-for-merge	branch 'release/5.0.0_beta_02' of https://github.com/OneSignal/OneSignal-XCFramework
+abe39caf93b75f9ae305a7b60d0a283045a63a9e	not-for-merge	branch 'release/5.2.0-beta-01' of https://github.com/OneSignal/OneSignal-XCFramework
+57a9c4fcddc9b3303a31b3b231b8997ae7aa526b	not-for-merge	branch 'release_5.0.4' of https://github.com/OneSignal/OneSignal-XCFramework
+ed26913b3363cdfbc7b0f06be5f568617d02b6a3	not-for-merge	branch 'test_modules' of https://github.com/OneSignal/OneSignal-XCFramework
+050e2f4def54be32c8a3b7bc9df0d9eeef6229da	not-for-merge	branch 'test_release_5.0.0-alpha' of https://github.com/OneSignal/OneSignal-XCFramework
+6f9435ceb39cdf7ce9e3c557a8e3d70ab1fe3286	not-for-merge	branch 'test_swift' of https://github.com/OneSignal/OneSignal-XCFramework
+84690db29ea90a9239495466c7a6f60661627c02	not-for-merge	branch 'testing-app-store-upload' of https://github.com/OneSignal/OneSignal-XCFramework
+ccdb61a09e224fd5f7bfe2c78207148143684b47	not-for-merge	branch 'update_zapier_yml' of https://github.com/OneSignal/OneSignal-XCFramework
+d62ac80b946f61b1e0e748b39b9bbf6e3dd79846	not-for-merge	branch 'zapier-action' of https://github.com/OneSignal/OneSignal-XCFramework
+14044947b583b28990fdebe06918072d88435cc9	not-for-merge	'refs/pull/1/head' of https://github.com/OneSignal/OneSignal-XCFramework
+b62a9fff01b51bbff6456b44c32426998ef46c0a	not-for-merge	'refs/pull/100/head' of https://github.com/OneSignal/OneSignal-XCFramework
+2192b44e4d911c330598f7313055ab64cc4cfe7c	not-for-merge	'refs/pull/101/head' of https://github.com/OneSignal/OneSignal-XCFramework
+f3a4fe0fd499268862783ad3d8b309ed7e627a13	not-for-merge	'refs/pull/103/head' of https://github.com/OneSignal/OneSignal-XCFramework
+eb3159d5ff0abe14041405499d70cd28e00306c2	not-for-merge	'refs/pull/104/head' of https://github.com/OneSignal/OneSignal-XCFramework
+512377977ca1640c8eb1d95f45168a026a153675	not-for-merge	'refs/pull/107/head' of https://github.com/OneSignal/OneSignal-XCFramework
+d1fcd1912d80b28909b6d42b32ba215eadb386c4	not-for-merge	'refs/pull/109/head' of https://github.com/OneSignal/OneSignal-XCFramework
+422d39a55b932de1ea5f396da59981b059051777	not-for-merge	'refs/pull/11/head' of https://github.com/OneSignal/OneSignal-XCFramework
+fd994208bff66abb5d1dac9d704bf007a1e22513	not-for-merge	'refs/pull/112/head' of https://github.com/OneSignal/OneSignal-XCFramework
+9ff8b504697c3a92749be3f6a83c9071110ed904	not-for-merge	'refs/pull/116/head' of https://github.com/OneSignal/OneSignal-XCFramework
+253bfa6e4661777844cbb48f016e704be10c8bce	not-for-merge	'refs/pull/119/head' of https://github.com/OneSignal/OneSignal-XCFramework
+2e30656740c247b46ef35323f3aa199b2480e934	not-for-merge	'refs/pull/12/head' of https://github.com/OneSignal/OneSignal-XCFramework
+d358a5a806560722076378301094941dbdede0db	not-for-merge	'refs/pull/120/head' of https://github.com/OneSignal/OneSignal-XCFramework
+e376644a1db12ec11e4d9354c355ccf0a428f0ee	not-for-merge	'refs/pull/121/head' of https://github.com/OneSignal/OneSignal-XCFramework
+f9d85d696e081b8ad086d3b6d45dd5a7e32c2e32	not-for-merge	'refs/pull/122/head' of https://github.com/OneSignal/OneSignal-XCFramework
+1c0084d864fbd0e81fd677965fe7e46e699d3ae3	not-for-merge	'refs/pull/123/head' of https://github.com/OneSignal/OneSignal-XCFramework
+4ed9818b91294e158e127e56a8915935accc4c92	not-for-merge	'refs/pull/125/head' of https://github.com/OneSignal/OneSignal-XCFramework
+08bb1e1da97a109f49a32fdbf6113545eebc3e09	not-for-merge	'refs/pull/126/head' of https://github.com/OneSignal/OneSignal-XCFramework
+c201f99c20678da235c05696792c308457d2993e	not-for-merge	'refs/pull/127/head' of https://github.com/OneSignal/OneSignal-XCFramework
+a80c1ebadee64c5a3e4ae9cde57eef0e939cde87	not-for-merge	'refs/pull/128/head' of https://github.com/OneSignal/OneSignal-XCFramework
+41d7ab8ef142a33d0d65770f5f0c042a4b2cf3be	not-for-merge	'refs/pull/129/head' of https://github.com/OneSignal/OneSignal-XCFramework
+e33c0733521fef6b5a919813af3a785a6094bf35	not-for-merge	'refs/pull/13/head' of https://github.com/OneSignal/OneSignal-XCFramework
+462a5e7491f22f22cc2ddaf42e47bd41a16782a9	not-for-merge	'refs/pull/130/head' of https://github.com/OneSignal/OneSignal-XCFramework
+542798da7b75e8b6abacb55352056eed263138af	not-for-merge	'refs/pull/131/head' of https://github.com/OneSignal/OneSignal-XCFramework
+803549744896136277a98b76b4db6f1169c092af	not-for-merge	'refs/pull/132/head' of https://github.com/OneSignal/OneSignal-XCFramework
+7b7c2581cd3934d81a3a6f60c8089c70d52c5849	not-for-merge	'refs/pull/133/head' of https://github.com/OneSignal/OneSignal-XCFramework
+a3f3480aa17d4e2180e7efd1b959c693a899ffc5	not-for-merge	'refs/pull/14/head' of https://github.com/OneSignal/OneSignal-XCFramework
+ed2af2a2265c2551694e29447b3da694b0c222fd	not-for-merge	'refs/pull/15/head' of https://github.com/OneSignal/OneSignal-XCFramework
+5f9e3513e6149dc6eefaed10ae97a5a88b6c7200	not-for-merge	'refs/pull/16/head' of https://github.com/OneSignal/OneSignal-XCFramework
+a09a779b3876aaba60e41e2f3d9a0d32c149c256	not-for-merge	'refs/pull/17/head' of https://github.com/OneSignal/OneSignal-XCFramework
+020da6780580160a1f7d30927e77f5a9feb9f176	not-for-merge	'refs/pull/18/head' of https://github.com/OneSignal/OneSignal-XCFramework
+02bc1ed8ec9bec80d35ada5853f906a6430e9206	not-for-merge	'refs/pull/19/head' of https://github.com/OneSignal/OneSignal-XCFramework
+4cb0adf68558207ee4849c932866ed7a1f3e9ed0	not-for-merge	'refs/pull/2/head' of https://github.com/OneSignal/OneSignal-XCFramework
+01edf372e827ed0d078dc92b4dd9b08c4fca1f28	not-for-merge	'refs/pull/20/head' of https://github.com/OneSignal/OneSignal-XCFramework
+2ffe46ea482e4bae3c41ae36254f37449c04d41c	not-for-merge	'refs/pull/21/head' of https://github.com/OneSignal/OneSignal-XCFramework
+ff06d8e60650e553c815e7f34a112304cfca51d9	not-for-merge	'refs/pull/22/head' of https://github.com/OneSignal/OneSignal-XCFramework
+f8afd8079dd23b1115e8c37bf35abd80ee425630	not-for-merge	'refs/pull/23/head' of https://github.com/OneSignal/OneSignal-XCFramework
+93e77a1ef0eabe7350b1098889322f044d1c5b98	not-for-merge	'refs/pull/24/head' of https://github.com/OneSignal/OneSignal-XCFramework
+52cae87f1f00a897a3a93177d30ba78718d77d4c	not-for-merge	'refs/pull/25/head' of https://github.com/OneSignal/OneSignal-XCFramework
+9879bf0489387e7436f845bb1bc183c2748653ad	not-for-merge	'refs/pull/28/head' of https://github.com/OneSignal/OneSignal-XCFramework
+f7999c111ec5f590f7351c28a9797c38ade1da88	not-for-merge	'refs/pull/30/head' of https://github.com/OneSignal/OneSignal-XCFramework
+7a9d4fdf03f493378f84a985416421a93d06c10f	not-for-merge	'refs/pull/31/head' of https://github.com/OneSignal/OneSignal-XCFramework
+43c4203d6f46c6642b2bc133790bb7ea4b98d18b	not-for-merge	'refs/pull/32/head' of https://github.com/OneSignal/OneSignal-XCFramework
+6de3072473019f6828d82a5f56a7f9e4d49db41b	not-for-merge	'refs/pull/33/head' of https://github.com/OneSignal/OneSignal-XCFramework
+125e5903b2ef8dd7db25317530584957d7bce176	not-for-merge	'refs/pull/34/head' of https://github.com/OneSignal/OneSignal-XCFramework
+2d6263ebb125716dc3c61cbb85a44ac5815086d8	not-for-merge	'refs/pull/35/head' of https://github.com/OneSignal/OneSignal-XCFramework
+72e38274f816cac3d26390362bac57504c5bd02d	not-for-merge	'refs/pull/36/head' of https://github.com/OneSignal/OneSignal-XCFramework
+2b066e535b5d124a7cd92f1df0db6a5fb962c9be	not-for-merge	'refs/pull/38/head' of https://github.com/OneSignal/OneSignal-XCFramework
+ca08db329f73f019c02d2bfffc0cb3f3262aa2bb	not-for-merge	'refs/pull/39/head' of https://github.com/OneSignal/OneSignal-XCFramework
+69579291e2183c1d7f2c46fe82a238b2af3a199f	not-for-merge	'refs/pull/40/head' of https://github.com/OneSignal/OneSignal-XCFramework
+bed6da55c0c237594ee655f410c076b1a48f1597	not-for-merge	'refs/pull/42/head' of https://github.com/OneSignal/OneSignal-XCFramework
+174516bcaa787e79a3cec2e48b9d04dd1aa8c89b	not-for-merge	'refs/pull/43/head' of https://github.com/OneSignal/OneSignal-XCFramework
+8c76ce8393b1b2eaf4f1b5cf4480a6983ec352fc	not-for-merge	'refs/pull/44/head' of https://github.com/OneSignal/OneSignal-XCFramework
+3ab2d6eb437be6faa76173c194dd26ca53aa00b5	not-for-merge	'refs/pull/46/head' of https://github.com/OneSignal/OneSignal-XCFramework
+eeb4efdcfdda54942ad948fdf58bd20caa968176	not-for-merge	'refs/pull/47/head' of https://github.com/OneSignal/OneSignal-XCFramework
+8032b66334d9b17f77452b517b4cd70acd6d3ce4	not-for-merge	'refs/pull/48/head' of https://github.com/OneSignal/OneSignal-XCFramework
+c0c888a21c92d0c177cd71ecca3ae972d4e7a38f	not-for-merge	'refs/pull/49/head' of https://github.com/OneSignal/OneSignal-XCFramework
+0951c8c848000f0395344ecddd2ad48de9be36ef	not-for-merge	'refs/pull/5/head' of https://github.com/OneSignal/OneSignal-XCFramework
+b778088ec7daafbac6f02a59a751feccbbd27da1	not-for-merge	'refs/pull/50/head' of https://github.com/OneSignal/OneSignal-XCFramework
+3d67c5ae8de6e66bef9299eedaea3c6bd10bf0b5	not-for-merge	'refs/pull/51/head' of https://github.com/OneSignal/OneSignal-XCFramework
+d62ac80b946f61b1e0e748b39b9bbf6e3dd79846	not-for-merge	'refs/pull/52/head' of https://github.com/OneSignal/OneSignal-XCFramework
+13b1e965aa69c181033e407def0a8358656ef351	not-for-merge	'refs/pull/53/head' of https://github.com/OneSignal/OneSignal-XCFramework
+6998c230817f637507e661d579e2e6156503fb49	not-for-merge	'refs/pull/54/head' of https://github.com/OneSignal/OneSignal-XCFramework
+8de88e8f3c3c131a991ada6e757d63ea932adb84	not-for-merge	'refs/pull/55/head' of https://github.com/OneSignal/OneSignal-XCFramework
+9a164f05c2596c08bee296b2bd9d63f2ad4ac908	not-for-merge	'refs/pull/56/head' of https://github.com/OneSignal/OneSignal-XCFramework
+ccdb61a09e224fd5f7bfe2c78207148143684b47	not-for-merge	'refs/pull/57/head' of https://github.com/OneSignal/OneSignal-XCFramework
+b412ed76771191a35292ab644388bbfee2cad9a5	not-for-merge	'refs/pull/58/head' of https://github.com/OneSignal/OneSignal-XCFramework
+08e5a30c55b60b4a0d9cb543d50705b567e2b3b9	not-for-merge	'refs/pull/59/head' of https://github.com/OneSignal/OneSignal-XCFramework
+0705db6282508df80ca8ba4397f69bbe5d11aabf	not-for-merge	'refs/pull/6/head' of https://github.com/OneSignal/OneSignal-XCFramework
+2d5740f372d62a74a64db2892ffac8311306653e	not-for-merge	'refs/pull/60/head' of https://github.com/OneSignal/OneSignal-XCFramework
+d235939a1d96d6a4c93e4cf160724c2ce07e06b0	not-for-merge	'refs/pull/61/head' of https://github.com/OneSignal/OneSignal-XCFramework
+f1840f923f79da6bfea68edd67452959d74a5379	not-for-merge	'refs/pull/62/head' of https://github.com/OneSignal/OneSignal-XCFramework
+d895347b7894c0b1c630461136fac0131c25c986	not-for-merge	'refs/pull/63/head' of https://github.com/OneSignal/OneSignal-XCFramework
+83eb2e579a4183366169d17a2728b5045ae551fd	not-for-merge	'refs/pull/64/head' of https://github.com/OneSignal/OneSignal-XCFramework
+ebe1c30a67e1c67c9d3f0cfbf598247cda38f323	not-for-merge	'refs/pull/65/head' of https://github.com/OneSignal/OneSignal-XCFramework
+3b6f902cbb7ad2233bab45deca93c4201a79709d	not-for-merge	'refs/pull/66/head' of https://github.com/OneSignal/OneSignal-XCFramework
+5580193d81848d7dfd3f924be17fe11d82555d6d	not-for-merge	'refs/pull/67/head' of https://github.com/OneSignal/OneSignal-XCFramework
+4a48cc18747a45f89f4ec9d774f2a4132d8a4f68	not-for-merge	'refs/pull/70/head' of https://github.com/OneSignal/OneSignal-XCFramework
+ac8da70f21f822cbec26525119a21e8996fc27d2	not-for-merge	'refs/pull/73/head' of https://github.com/OneSignal/OneSignal-XCFramework
+57a9c4fcddc9b3303a31b3b231b8997ae7aa526b	not-for-merge	'refs/pull/74/head' of https://github.com/OneSignal/OneSignal-XCFramework
+883cc477eab8fece31afe0c396725d4ff41671e5	not-for-merge	'refs/pull/75/head' of https://github.com/OneSignal/OneSignal-XCFramework
+6820ed26bc884aefa76a907ac80eb114d6b4a8f8	not-for-merge	'refs/pull/76/head' of https://github.com/OneSignal/OneSignal-XCFramework
+9076f00d55888d6a0c1363b480905d403cbeef39	not-for-merge	'refs/pull/77/head' of https://github.com/OneSignal/OneSignal-XCFramework
+3576a8a827a970e055dcb7550249b73600f37589	not-for-merge	'refs/pull/78/head' of https://github.com/OneSignal/OneSignal-XCFramework
+e25e95caceb9b1669734301685e217158f08cf6a	not-for-merge	'refs/pull/79/head' of https://github.com/OneSignal/OneSignal-XCFramework
+71ebe8dcd557aafb9c90b58a5f98d519374022ef	not-for-merge	'refs/pull/8/head' of https://github.com/OneSignal/OneSignal-XCFramework
+cabf6854ac0c58841cb9cdf24a094a969c6e189e	not-for-merge	'refs/pull/80/head' of https://github.com/OneSignal/OneSignal-XCFramework
+8a949bcd30360c50924f553c2a5f7b25383454b0	not-for-merge	'refs/pull/81/head' of https://github.com/OneSignal/OneSignal-XCFramework
+68218547d4c04664e38ad7134ec03f7e7b6a89d8	not-for-merge	'refs/pull/82/head' of https://github.com/OneSignal/OneSignal-XCFramework
+436db8062b7ee58ff6df32874d0e85eaf055fcbe	not-for-merge	'refs/pull/83/head' of https://github.com/OneSignal/OneSignal-XCFramework
+c36bbb31121d3b17327c9a49acd11145e10e2866	not-for-merge	'refs/pull/85/head' of https://github.com/OneSignal/OneSignal-XCFramework
+9253cffb3e93d2ca070041ebab7069c19f3557db	not-for-merge	'refs/pull/86/head' of https://github.com/OneSignal/OneSignal-XCFramework
+3ccb5af8e720d55393ea569e3b64d0730f5de06d	not-for-merge	'refs/pull/87/head' of https://github.com/OneSignal/OneSignal-XCFramework
+627e13e55cb1ae929a5f610e3fb9ff5eaca9a853	not-for-merge	'refs/pull/88/head' of https://github.com/OneSignal/OneSignal-XCFramework
+8b375d352a56cb77cf2fb565aff1518f89761f5f	not-for-merge	'refs/pull/89/head' of https://github.com/OneSignal/OneSignal-XCFramework
+d395e3728e30befc70f1f0ab39658d23df155d31	not-for-merge	'refs/pull/9/head' of https://github.com/OneSignal/OneSignal-XCFramework
+768567a40508361087e249a194ed099edccd487d	not-for-merge	'refs/pull/93/head' of https://github.com/OneSignal/OneSignal-XCFramework
+56176d498f5436b1f402b33532905218c376fa94	not-for-merge	'refs/pull/94/head' of https://github.com/OneSignal/OneSignal-XCFramework
+f4f6fb5342c147b292b2542663e075a1b2b55dcf	not-for-merge	'refs/pull/96/head' of https://github.com/OneSignal/OneSignal-XCFramework
+e97a211d4a1f248148ec5a8e6cd9d4ff145a44cd	not-for-merge	'refs/pull/97/head' of https://github.com/OneSignal/OneSignal-XCFramework
+654e7897a891ab4128b54bf249fe2d500c514d70	not-for-merge	'refs/pull/98/head' of https://github.com/OneSignal/OneSignal-XCFramework
+85c09fb734bc3b236ff0632b4b2ee56e260a056a	not-for-merge	'refs/pull/99/head' of https://github.com/OneSignal/OneSignal-XCFramework
+b62a9fff01b51bbff6456b44c32426998ef46c0a	not-for-merge	'refs/reviewable/pr100/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+2192b44e4d911c330598f7313055ab64cc4cfe7c	not-for-merge	'refs/reviewable/pr101/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+f3a4fe0fd499268862783ad3d8b309ed7e627a13	not-for-merge	'refs/reviewable/pr103/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+eb3159d5ff0abe14041405499d70cd28e00306c2	not-for-merge	'refs/reviewable/pr104/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+512377977ca1640c8eb1d95f45168a026a153675	not-for-merge	'refs/reviewable/pr107/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+d1fcd1912d80b28909b6d42b32ba215eadb386c4	not-for-merge	'refs/reviewable/pr109/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+fd994208bff66abb5d1dac9d704bf007a1e22513	not-for-merge	'refs/reviewable/pr112/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+9ff8b504697c3a92749be3f6a83c9071110ed904	not-for-merge	'refs/reviewable/pr116/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+253bfa6e4661777844cbb48f016e704be10c8bce	not-for-merge	'refs/reviewable/pr119/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+d358a5a806560722076378301094941dbdede0db	not-for-merge	'refs/reviewable/pr120/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+e376644a1db12ec11e4d9354c355ccf0a428f0ee	not-for-merge	'refs/reviewable/pr121/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+f9d85d696e081b8ad086d3b6d45dd5a7e32c2e32	not-for-merge	'refs/reviewable/pr122/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+1c0084d864fbd0e81fd677965fe7e46e699d3ae3	not-for-merge	'refs/reviewable/pr123/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+4ed9818b91294e158e127e56a8915935accc4c92	not-for-merge	'refs/reviewable/pr125/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+08bb1e1da97a109f49a32fdbf6113545eebc3e09	not-for-merge	'refs/reviewable/pr126/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+c201f99c20678da235c05696792c308457d2993e	not-for-merge	'refs/reviewable/pr127/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+a80c1ebadee64c5a3e4ae9cde57eef0e939cde87	not-for-merge	'refs/reviewable/pr128/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+41d7ab8ef142a33d0d65770f5f0c042a4b2cf3be	not-for-merge	'refs/reviewable/pr129/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+462a5e7491f22f22cc2ddaf42e47bd41a16782a9	not-for-merge	'refs/reviewable/pr130/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+542798da7b75e8b6abacb55352056eed263138af	not-for-merge	'refs/reviewable/pr131/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+803549744896136277a98b76b4db6f1169c092af	not-for-merge	'refs/reviewable/pr132/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+7b7c2581cd3934d81a3a6f60c8089c70d52c5849	not-for-merge	'refs/reviewable/pr133/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+eeb4efdcfdda54942ad948fdf58bd20caa968176	not-for-merge	'refs/reviewable/pr47/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+8032b66334d9b17f77452b517b4cd70acd6d3ce4	not-for-merge	'refs/reviewable/pr48/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+d62ac80b946f61b1e0e748b39b9bbf6e3dd79846	not-for-merge	'refs/reviewable/pr52/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+13b1e965aa69c181033e407def0a8358656ef351	not-for-merge	'refs/reviewable/pr53/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+6998c230817f637507e661d579e2e6156503fb49	not-for-merge	'refs/reviewable/pr54/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+6998c230817f637507e661d579e2e6156503fb49	not-for-merge	'refs/reviewable/pr54/r2' of https://github.com/OneSignal/OneSignal-XCFramework
+8de88e8f3c3c131a991ada6e757d63ea932adb84	not-for-merge	'refs/reviewable/pr55/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+9a164f05c2596c08bee296b2bd9d63f2ad4ac908	not-for-merge	'refs/reviewable/pr56/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+ccdb61a09e224fd5f7bfe2c78207148143684b47	not-for-merge	'refs/reviewable/pr57/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+b412ed76771191a35292ab644388bbfee2cad9a5	not-for-merge	'refs/reviewable/pr58/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+08e5a30c55b60b4a0d9cb543d50705b567e2b3b9	not-for-merge	'refs/reviewable/pr59/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+2d5740f372d62a74a64db2892ffac8311306653e	not-for-merge	'refs/reviewable/pr60/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+36f8d3b8b1cff4d99ff53457137b3308a24396a9	not-for-merge	'refs/reviewable/pr60/r2' of https://github.com/OneSignal/OneSignal-XCFramework
+21cabf62990c8183f2cf0ce7be90bc3c8a868dcc	not-for-merge	'refs/reviewable/pr60/r3' of https://github.com/OneSignal/OneSignal-XCFramework
+a4bacc8293095b9e221f67e79fa5aec217d6350a	not-for-merge	'refs/reviewable/pr60/r4' of https://github.com/OneSignal/OneSignal-XCFramework
+2d5740f372d62a74a64db2892ffac8311306653e	not-for-merge	'refs/reviewable/pr60/r5' of https://github.com/OneSignal/OneSignal-XCFramework
+d235939a1d96d6a4c93e4cf160724c2ce07e06b0	not-for-merge	'refs/reviewable/pr61/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+f1840f923f79da6bfea68edd67452959d74a5379	not-for-merge	'refs/reviewable/pr62/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+d895347b7894c0b1c630461136fac0131c25c986	not-for-merge	'refs/reviewable/pr63/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+83eb2e579a4183366169d17a2728b5045ae551fd	not-for-merge	'refs/reviewable/pr64/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+ebe1c30a67e1c67c9d3f0cfbf598247cda38f323	not-for-merge	'refs/reviewable/pr65/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+3b6f902cbb7ad2233bab45deca93c4201a79709d	not-for-merge	'refs/reviewable/pr66/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+5580193d81848d7dfd3f924be17fe11d82555d6d	not-for-merge	'refs/reviewable/pr67/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+4a48cc18747a45f89f4ec9d774f2a4132d8a4f68	not-for-merge	'refs/reviewable/pr70/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+ac8da70f21f822cbec26525119a21e8996fc27d2	not-for-merge	'refs/reviewable/pr73/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+57a9c4fcddc9b3303a31b3b231b8997ae7aa526b	not-for-merge	'refs/reviewable/pr74/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+883cc477eab8fece31afe0c396725d4ff41671e5	not-for-merge	'refs/reviewable/pr75/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+6820ed26bc884aefa76a907ac80eb114d6b4a8f8	not-for-merge	'refs/reviewable/pr76/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+9076f00d55888d6a0c1363b480905d403cbeef39	not-for-merge	'refs/reviewable/pr77/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+3576a8a827a970e055dcb7550249b73600f37589	not-for-merge	'refs/reviewable/pr78/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+e25e95caceb9b1669734301685e217158f08cf6a	not-for-merge	'refs/reviewable/pr79/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+cabf6854ac0c58841cb9cdf24a094a969c6e189e	not-for-merge	'refs/reviewable/pr80/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+8a949bcd30360c50924f553c2a5f7b25383454b0	not-for-merge	'refs/reviewable/pr81/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+68218547d4c04664e38ad7134ec03f7e7b6a89d8	not-for-merge	'refs/reviewable/pr82/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+436db8062b7ee58ff6df32874d0e85eaf055fcbe	not-for-merge	'refs/reviewable/pr83/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+c36bbb31121d3b17327c9a49acd11145e10e2866	not-for-merge	'refs/reviewable/pr85/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+9253cffb3e93d2ca070041ebab7069c19f3557db	not-for-merge	'refs/reviewable/pr86/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+3ccb5af8e720d55393ea569e3b64d0730f5de06d	not-for-merge	'refs/reviewable/pr87/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+627e13e55cb1ae929a5f610e3fb9ff5eaca9a853	not-for-merge	'refs/reviewable/pr88/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+8b375d352a56cb77cf2fb565aff1518f89761f5f	not-for-merge	'refs/reviewable/pr89/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+768567a40508361087e249a194ed099edccd487d	not-for-merge	'refs/reviewable/pr93/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+56176d498f5436b1f402b33532905218c376fa94	not-for-merge	'refs/reviewable/pr94/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+f4f6fb5342c147b292b2542663e075a1b2b55dcf	not-for-merge	'refs/reviewable/pr96/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+e97a211d4a1f248148ec5a8e6cd9d4ff145a44cd	not-for-merge	'refs/reviewable/pr97/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+654e7897a891ab4128b54bf249fe2d500c514d70	not-for-merge	'refs/reviewable/pr98/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+85c09fb734bc3b236ff0632b4b2ee56e260a056a	not-for-merge	'refs/reviewable/pr99/r1' of https://github.com/OneSignal/OneSignal-XCFramework
+099d16160e22d629b126b62c929ffa8d6d70a418	not-for-merge	tag '3.1.1' of https://github.com/OneSignal/OneSignal-XCFramework
+f3b2ae02a073d247345b88bf04dd5ab1ca37abb4	not-for-merge	tag '3.10.0' of https://github.com/OneSignal/OneSignal-XCFramework
+d9d8d7de62e090bb8414369540b676c18be89ec2	not-for-merge	tag '3.10.1' of https://github.com/OneSignal/OneSignal-XCFramework
+837e427138b22c9e5e56ecc9dc4374f33f84aa06	not-for-merge	tag '3.10.2' of https://github.com/OneSignal/OneSignal-XCFramework
+a0b4c9250172a90330f3e33042ec7dfa93ed19bf	not-for-merge	tag '3.10.3' of https://github.com/OneSignal/OneSignal-XCFramework
+1676568b2f16746cea8f03763a9c30893176e0f7	not-for-merge	tag '3.11.0' of https://github.com/OneSignal/OneSignal-XCFramework
+40b9789aabfbff1b6a02974c4d100ddfe047d94d	not-for-merge	tag '3.11.1' of https://github.com/OneSignal/OneSignal-XCFramework
+5016b3aee6e08e9a8e55b2197e60a40ee3d3ebe5	not-for-merge	tag '3.11.2' of https://github.com/OneSignal/OneSignal-XCFramework
+d20647de3d23cb1d19ad86b9dd23c530332091b1	not-for-merge	tag '3.11.3' of https://github.com/OneSignal/OneSignal-XCFramework
+e65fe6d4c481263c1b20b0967a4d25e5e0106d7a	not-for-merge	tag '3.11.4' of https://github.com/OneSignal/OneSignal-XCFramework
+eeb04208bdfcd4e6456251ac309826b766958a0a	not-for-merge	tag '3.11.5' of https://github.com/OneSignal/OneSignal-XCFramework
+7693e9d72ebdffea34bc6a0403ab9040f4a56163	not-for-merge	tag '3.12.0' of https://github.com/OneSignal/OneSignal-XCFramework
+0737e66bf31db6abf19a6664d8100f44ae4f0ab0	not-for-merge	tag '3.12.1' of https://github.com/OneSignal/OneSignal-XCFramework
+fb5b9f51b7142f534f6c5bb7e63c5a76a9c1bad4	not-for-merge	tag '3.12.10' of https://github.com/OneSignal/OneSignal-XCFramework
+16b46025076f3ccd23b512567b7bbd367248d42e	not-for-merge	tag '3.12.2' of https://github.com/OneSignal/OneSignal-XCFramework
+b87060d4a77ab6b5e96d6655b2587d3cb05e33e5	not-for-merge	tag '3.12.3' of https://github.com/OneSignal/OneSignal-XCFramework
+539db4b16e3718b3a0ed4ca210421a6def8442b0	not-for-merge	tag '3.12.4' of https://github.com/OneSignal/OneSignal-XCFramework
+091f9c572b4a522f93cd1d4f2f524e3818a253f2	not-for-merge	tag '3.12.5' of https://github.com/OneSignal/OneSignal-XCFramework
+b466a821e03008ecae885ebf79f52e4b88269b06	not-for-merge	tag '3.12.6' of https://github.com/OneSignal/OneSignal-XCFramework
+cd5b5e7c8cd972ad307dc696d4f5aeb1d3f844c7	not-for-merge	tag '3.12.8' of https://github.com/OneSignal/OneSignal-XCFramework
+1a726ca00f267ed2d90316e224f2864ffc26c3df	not-for-merge	tag '3.12.9' of https://github.com/OneSignal/OneSignal-XCFramework
+79950ee70b76a06e469df86063a5edf6544dba47	not-for-merge	tag '3.2.0' of https://github.com/OneSignal/OneSignal-XCFramework
+f4a5a4e4db7c039cc635a0124b7bd2a8b0b5ba3b	not-for-merge	tag '3.2.1' of https://github.com/OneSignal/OneSignal-XCFramework
+5879f8c938598ed2e918610c0753425934b40e68	not-for-merge	tag '3.2.2' of https://github.com/OneSignal/OneSignal-XCFramework
+925a35dfa8342f12931166efacde664879246539	not-for-merge	tag '3.2.3' of https://github.com/OneSignal/OneSignal-XCFramework
+bcfcfd4612e2f22e308f9c68117008ee4faf2170	not-for-merge	tag '3.3.0' of https://github.com/OneSignal/OneSignal-XCFramework
+ecb0a5048ea5a8f8c0b33cd3e7c48c6e43072142	not-for-merge	tag '3.4.0' of https://github.com/OneSignal/OneSignal-XCFramework
+6e5dc6e0edb6a9462696d0b0b48a823cc5ce9f85	not-for-merge	tag '3.4.1' of https://github.com/OneSignal/OneSignal-XCFramework
+da3d0c529d1cde8a458740ce914d3a8d99f123bf	not-for-merge	tag '3.4.2' of https://github.com/OneSignal/OneSignal-XCFramework
+1b36129531b799b4a01ad3e306be157b0deec553	not-for-merge	tag '3.4.3' of https://github.com/OneSignal/OneSignal-XCFramework
+5654e6b7a3226a393e041fea541ea9a1a19d7c88	not-for-merge	tag '3.4.4' of https://github.com/OneSignal/OneSignal-XCFramework
+d6b47c5b0fbbea8e3aa6fa8ab2f75598f3ffa79c	not-for-merge	tag '3.5.1' of https://github.com/OneSignal/OneSignal-XCFramework
+b868704d0fd43ef28da69b35918a3597e014bb40	not-for-merge	tag '3.5.2' of https://github.com/OneSignal/OneSignal-XCFramework
+fc38594bf1b90c30ce8f4b3574743ce2752635cc	not-for-merge	tag '3.5.3' of https://github.com/OneSignal/OneSignal-XCFramework
+ab77df4943d3fbf3bc92ca5710fda733842d2ccc	not-for-merge	tag '3.6.0' of https://github.com/OneSignal/OneSignal-XCFramework
+2627e9eac584eb021bf86cd06661c187c6496a71	not-for-merge	tag '3.6.1' of https://github.com/OneSignal/OneSignal-XCFramework
+5fafde1e54f6bbe8d2cd8852490388ee1139507f	not-for-merge	tag '3.6.2' of https://github.com/OneSignal/OneSignal-XCFramework
+6274cfbf0e1682cd288526d7678e832809e7bc06	not-for-merge	tag '3.7.0' of https://github.com/OneSignal/OneSignal-XCFramework
+ac70abe67d2234dcbd4a37b4da05c1333f30e350	not-for-merge	tag '3.8.0' of https://github.com/OneSignal/OneSignal-XCFramework
+a12ab11bd3ec6a4152af77c6387daef35ce6a8fc	not-for-merge	tag '3.8.1' of https://github.com/OneSignal/OneSignal-XCFramework
+0cad2fb9255d0b688f5f3f7097cec37cc7dca389	not-for-merge	tag '3.9.0' of https://github.com/OneSignal/OneSignal-XCFramework
+8e10893e076572c8612fc8673e588727534ef6fb	not-for-merge	tag '3.9.1' of https://github.com/OneSignal/OneSignal-XCFramework
+a8a3d0d2efb5cf9ebc4e1ac2b27d7b0c1cc01067	not-for-merge	tag '5.0.0' of https://github.com/OneSignal/OneSignal-XCFramework
+26861da96f9050b34655ffc482a24f94a409565b	not-for-merge	tag '5.0.0-alpha-01' of https://github.com/OneSignal/OneSignal-XCFramework
+36f8d3b8b1cff4d99ff53457137b3308a24396a9	not-for-merge	tag '5.0.0-alpha-02' of https://github.com/OneSignal/OneSignal-XCFramework
+21cabf62990c8183f2cf0ce7be90bc3c8a868dcc	not-for-merge	tag '5.0.0-beta-01' of https://github.com/OneSignal/OneSignal-XCFramework
+a4bacc8293095b9e221f67e79fa5aec217d6350a	not-for-merge	tag '5.0.0-beta-02' of https://github.com/OneSignal/OneSignal-XCFramework
+5ff9664cc053bb44e9039aad7cd558906bd15425	not-for-merge	tag '5.0.0-beta-03' of https://github.com/OneSignal/OneSignal-XCFramework
+101fef777124facf8456b7c221d3531ef85b30e1	not-for-merge	tag '5.0.0-beta-04' of https://github.com/OneSignal/OneSignal-XCFramework
+0eab82e76e7b74177ef90d0e781cf3475c12e6b4	not-for-merge	tag '5.0.0-beta-05' of https://github.com/OneSignal/OneSignal-XCFramework
+5878c1951e685f549fbf81cc626432ea126f3f64	not-for-merge	tag '5.0.0-beta-06' of https://github.com/OneSignal/OneSignal-XCFramework
+050e2f4def54be32c8a3b7bc9df0d9eeef6229da	not-for-merge	tag '5.0.0-test-alpha-04' of https://github.com/OneSignal/OneSignal-XCFramework
+e8300b958a1071307bc73ff861d5a84107c0fd7e	not-for-merge	tag '5.0.1' of https://github.com/OneSignal/OneSignal-XCFramework
+5916c9946571047377061dc3c88e54cd4e866beb	not-for-merge	tag '5.0.2' of https://github.com/OneSignal/OneSignal-XCFramework
+2fd347e80b9c834702221fb132da67025c22ef13	not-for-merge	tag '5.0.3' of https://github.com/OneSignal/OneSignal-XCFramework
+2def0328e37a48943cb69c7c89d084adf7dd70f3	not-for-merge	tag '5.0.4' of https://github.com/OneSignal/OneSignal-XCFramework
+fa397d82ab43f18431ddc553497e5ab72faff53d	not-for-merge	tag '5.0.5' of https://github.com/OneSignal/OneSignal-XCFramework
+75accf0bdd3e42984c8788363b6b4821d0834078	not-for-merge	tag '5.1.0' of https://github.com/OneSignal/OneSignal-XCFramework
+c3e7708a01f73f74e07696a639b4437f300325c1	not-for-merge	tag '5.1.1' of https://github.com/OneSignal/OneSignal-XCFramework
+68685956124c710cdc9112bc696ad30e2f58538b	not-for-merge	tag '5.1.3' of https://github.com/OneSignal/OneSignal-XCFramework
+e73f2188592887beff66c8f398bf3c71c64bd616	not-for-merge	tag '5.1.4' of https://github.com/OneSignal/OneSignal-XCFramework
+7df02482c94bff385890111e2f09ffe024fcf7e7	not-for-merge	tag '5.1.5' of https://github.com/OneSignal/OneSignal-XCFramework
+fc88833146e426eb4f64806baf5e494212458cad	not-for-merge	tag '5.1.6' of https://github.com/OneSignal/OneSignal-XCFramework
+37c0c6ebfe4aad85be13f6e6ba079282302533fc	not-for-merge	tag '5.2.0' of https://github.com/OneSignal/OneSignal-XCFramework
+abe39caf93b75f9ae305a7b60d0a283045a63a9e	not-for-merge	tag '5.2.0-beta-01' of https://github.com/OneSignal/OneSignal-XCFramework
+5d76d27efc7a073e9a664a6b3f48fc5df47b6c66	not-for-merge	tag '5.2.1' of https://github.com/OneSignal/OneSignal-XCFramework
+a7df0fa1cb25ae2920b6ee01fe703fec50639256	not-for-merge	tag '5.2.10' of https://github.com/OneSignal/OneSignal-XCFramework
+e976fd14ed895fe663710086ed5c33a4cad1bb66	not-for-merge	tag '5.2.11' of https://github.com/OneSignal/OneSignal-XCFramework
+d400b946b75385858fae0be90e1e68ddf123889e	not-for-merge	tag '5.2.12' of https://github.com/OneSignal/OneSignal-XCFramework
+5d62ba8265592889543aca56fe77c39c7fc35774	not-for-merge	tag '5.2.13' of https://github.com/OneSignal/OneSignal-XCFramework
+5482958fa1c2c78b24e5bc002d70fc1154b16c13	not-for-merge	tag '5.2.14' of https://github.com/OneSignal/OneSignal-XCFramework
+8fcd9c4dbc8ab8bb6383dd4e9bde068a6b6d4f93	not-for-merge	tag '5.2.15' of https://github.com/OneSignal/OneSignal-XCFramework
+4b1006d361811aa8f1c4d2ae0fab94a18540ff75	not-for-merge	tag '5.2.2' of https://github.com/OneSignal/OneSignal-XCFramework
+f4f6fb5342c147b292b2542663e075a1b2b55dcf	not-for-merge	tag '5.2.3' of https://github.com/OneSignal/OneSignal-XCFramework
+72e4fa4c3d83f6c1f7b35955e0793754ea2dd15d	not-for-merge	tag '5.2.4' of https://github.com/OneSignal/OneSignal-XCFramework
+b2aefeaaa98002c7a37f4923eb88bd7d99d2c497	not-for-merge	tag '5.2.5' of https://github.com/OneSignal/OneSignal-XCFramework
+d2c658b43a3caa996927c679ea17e7f4f439b8ad	not-for-merge	tag '5.2.6' of https://github.com/OneSignal/OneSignal-XCFramework
+5f4a9185333f4301522bdd8d3dbb705e8e371625	not-for-merge	tag '5.2.7' of https://github.com/OneSignal/OneSignal-XCFramework
+71eaf66dc08b6b1a638568c8e0c0cf987ef173ac	not-for-merge	tag '5.2.8' of https://github.com/OneSignal/OneSignal-XCFramework
+3bc37b379581442be7d6337d01f5c7e5d6a4cdde	not-for-merge	tag '5.2.9' of https://github.com/OneSignal/OneSignal-XCFramework
+ca839d9ab2d5556f9d51f633cf5c8b94e462a4d8	not-for-merge	tag '5.3.0-beta-01' of https://github.com/OneSignal/OneSignal-XCFramework
+6708bdd660666a0f10b0c39ee4955bbc31f6153a	not-for-merge	tag '5.3.0-beta-02' of https://github.com/OneSignal/OneSignal-XCFramework
+77867e14de45004ac376872e04afe9ca224199f1	not-for-merge	tag '5.4.0-alpha-01' of https://github.com/OneSignal/OneSignal-XCFramework
+1b36129531b799b4a01ad3e306be157b0deec553	not-for-merge	tag 'test' of https://github.com/OneSignal/OneSignal-XCFramework
