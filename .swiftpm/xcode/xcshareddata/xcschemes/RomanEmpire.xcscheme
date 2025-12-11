@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "2600"
+   LastUpgradeVersion = "2610"
    version = "1.7">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AnimationGalaxySPM"
-               BuildableName = "AnimationGalaxySPM"
-               BlueprintName = "AnimationGalaxySPM"
+               BlueprintIdentifier = "RomanEmpire"
+               BuildableName = "RomanEmpire"
+               BlueprintName = "RomanEmpire"
                ReferencedContainer = "container:">
             </BuildableReference>
          </BuildActionEntry>
@@ -34,9 +34,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AnimationGalaxySPMTests"
-               BuildableName = "AnimationGalaxySPMTests"
-               BlueprintName = "AnimationGalaxySPMTests"
+               BlueprintIdentifier = "RomanEmpireTests"
+               BuildableName = "RomanEmpireTests"
+               BlueprintName = "RomanEmpireTests"
                ReferencedContainer = "container:">
             </BuildableReference>
          </TestableReference>
@@ -62,9 +62,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AnimationGalaxySPM"
-            BuildableName = "AnimationGalaxySPM"
-            BlueprintName = "AnimationGalaxySPM"
+            BlueprintIdentifier = "RomanEmpire"
+            BuildableName = "RomanEmpire"
+            BlueprintName = "RomanEmpire"
             ReferencedContainer = "container:">
          </BuildableReference>
       </MacroExpansion>
