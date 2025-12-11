@@ -1,4 +1,0 @@
-module OneSignalExtensionWrapper {
-    umbrella "/Users/ivannezgovorov/Desktop/100APP/библиотеки не для стрипчат без амплитуды/TipSPM/.build/checkouts/OneSignal-XCFramework/OneSignalExtensionWrapper/include"
-    export *
-}
